@@ -1,0 +1,36 @@
+* vectori asignare: DONE
+* clase asignare
+* apel functii
+* functii: printf |si typeof : done
+* for: done
+* 
+
+* paranteze
+* nu conditie
+
+/*expresie:valoare SEMNE valoare 
+        | valoare SEMNE OPEN_P expresie CLOSED_P
+        | valoare SEMNE OPEN_P expresie CLOSED_P expresie
+        | OPEN_P expresie CLOSED_P
+        | OPEN_P expresie CLOSED_P SEMNE expresie
+        | valoare SEMNE valoare SEMNE expresie
+        | ID
+        | NUMAR_INTREG
+        | REAL
+        | ID LEFT_B id_vector RIGHT_B
+        | CARACTER
+        | STRING
+        | VALOARE_BOOL
+        | apelF_block
+        | ID DOT ID
+        | apelFClass_block
+        ;
+*/
+
+conditie: OPEN_P expresie LOGIC expresie CLOSED_P 
+    | OPEN_P conditie AND conditie CLOSED_P AND conditie
+    | OPEN_P conditie AND conditie CLOSED_P OR conditie
+    | OPEN_P conditie OR conditie CLOSED_P AND conditie
+    | OPEN_P conditie OR conditie CLOSED_P OR conditie;
+
+

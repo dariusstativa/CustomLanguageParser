@@ -1,0 +1,97 @@
+int x,y,a<-3,a[100],a<-pers(2);
+float b, c<-3.4, d<--4.5+b*c;
+char c, t<-b;
+string nume<-copil;
+Persona p <- Persoana("nume", prenume);
+
+clasa Persoana
+start_clasa
+int x,y,a<-3,a[100],a<-pers(2);
+float b, c<-3.4, d<--4.5;
+char c, t<-b;
+string nume<-copil;
+Persona p <- Persoana("nume", prenume);
+
+int ana (int b, Persoana a)
+start_i
+int x,y,a<-3,a[100],a<-pers(2);
+float b, c<-3.4, d<--4.5;
+char c, t<-b;
+string nume<-copil;
+Persona p <- Persoana("nume", prenume);
+final_i;
+
+final_clasa;
+
+void ana (int a)
+start_i
+int x;
+final_i;
+
+void ana ()
+start_i
+int x;
+final_i;
+
+int ana (int b, Persoana a)
+start_i
+int x,y,a<-3,a[100],a<-pers(2);
+float b, c<-3.4, d<--4.5;
+char c, t<-b;
+string nume<-copil;
+Persona p <- Persoana("nume", prenume);
+final_i;
+
+start
+x<-2+b;
+x<-v[i];
+
+printf(metodata(1,p.i,x,p.metoda(a,3)));
+printf(x);
+
+p.I<-metodata(1,p.i,x,p.metoda(a,3));
+x<-p.i;
+x<-metodata(1,p.i,x,p.metoda(a,3));
+x<-TRUE;
+x<-2+3.4+p.i;
+int x,y,a<-3,a[100],a<-pers(2);
+float b, c<-3.4, d<--4.5+b*c;
+char c, t<-b;
+
+typeof(metodata(v[i],1,p.i,x,p.metoda(a,3)));
+typeof(x);
+metodata(1,p.i,x,p.metoda(a,3));
+p.metodata(1,p.i,x,p.metoda(a,3));
+ana(v[i]);
+
+v[a[i]+i]<-1;
+string nume<-copil;
+
+for (a<-2;a<=b or b>=5;a<-a+1)
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i;
+
+if (x<2) and (y<=3)
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i
+else
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i;
+
+while (a<=b) or (b>=5)
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i;
+
+a<-v[i];
+v[i]<-5;
+v[v[i]] <-2+p.i-(p.i+3+(34+1+6-(3+3)))+4+Persoana("nume", prenume)+3;
+Persona p <- Persoana("nume", prenume);
+final

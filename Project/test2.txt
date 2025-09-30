@@ -1,0 +1,16 @@
+int x;
+start
+x<-2+b;
+x<-v[i];
+
+if (x<2) AND (y>3)
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i
+else
+start_i
+    p.I<-metodata(1,p.i,x,p.metoda(a,3));
+    x<-v[i];
+final_i;
+final
